@@ -36,15 +36,17 @@ Open a web browser and type the local host ip (you may see a warning message pro
 <br />
 You will be greated with a login screen (Login with the creds provided and you will be met with the SIEM dashboard):  <br/>
 <img src="https://i.imgur.com/RKteI4x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <p>Notice in the dashboard there are no current agents in the manager we will add some in the next steps</p>
  <img src="https://i.imgur.com/iLeuSIN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h2>Installing Windows And Linux Agents in Wazuh To Create Alerts for Securiy Monitoring And Log Aggregation </h2>    
+PlaceHolder:  <br/>
+<img src="" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Placeholder:  <br/>
+<img src="" height="80%" width="80%" alt=""/>
 </p>
 
 <!--
