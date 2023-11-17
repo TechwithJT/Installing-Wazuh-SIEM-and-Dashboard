@@ -11,16 +11,19 @@ In this project i will setup a open source SIEM called wazuh and and clients to 
 
 - <b>Windows 10</b>
 - <b>Ubuntu Linux</b>
+<br />
+<a href="https://documentation.wazuh.com/current/quickstart.html">Wazuh Download</a>
+<br />
 
-<h2>Program walk-through:</h2>
+<h2>Installing Wazuh in Ubuntu:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Navigate to link above and copy the "Curl Command" into your Unbuntu box: <br/>
+<img src="https://i.imgur.com/2k0NOpE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+And run the command it will ask you for your sudo credentials:  <br/>
+<img src="https://i.imgur.com/SIALIOL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
