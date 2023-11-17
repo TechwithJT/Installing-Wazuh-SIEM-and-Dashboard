@@ -25,17 +25,18 @@ Navigate to link above and copy the "Curl Command" into your Unbuntu box: <br/>
 And run the command it will ask you for your sudo credentials:  <br/>
 <img src="https://i.imgur.com/SIALIOL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />When the install is fully complete it will spit out the credentials to login to the web GUI/Dashbard: <br/>
+- <b>Once you have the creds you will get to the web portal by going to the local host of your system to find what this is run the following</b> 
+<img src="https://i.imgur.com/vGrzU9X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Open a web browser and type the local host ip (you may see a warning message proceed ayway):  <br/>
+<img src="https://i.imgur.com/mNo57Uv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+You will be greated with a login screen (Login with the creds provided and you will be met with the SIEM dashboard):  <br/>
+<img src="https://i.imgur.com/RKteI4x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/iLeuSIN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
